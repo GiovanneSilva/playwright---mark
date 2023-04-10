@@ -1,0 +1,22 @@
+{
+    "success" : {
+        "name": "Terminar curso de Playwright da QAx",
+        "is_done": false
+    },
+    "duplicated": {
+        "name": "teste2",
+        "is_done": false
+    },
+    "required": {
+        "name": "",
+        "is_done": false
+    },
+    "update": {
+        "name":"Terminar curso de Playwright da QAx",
+        "is_done": false
+    },
+    "delete": {
+        "name": "teste2",
+        "is_done":false
+    }
+}
